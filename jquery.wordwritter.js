@@ -3,6 +3,8 @@
  * Apply time effect to text element 
  * 
  * Developer Themba Lucas Ngubeni 
+ *
+ * @Requered Waypoint.js
  * 
  * @version 1.0
  * @copyright http://themba.website
